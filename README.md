@@ -47,26 +47,36 @@
 <p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 <h3>💻 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 <br/><br/>
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
+<h3>🎨 Styling</h3>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+<br/><br/>
+</td>
+<td width="33%" align="center">
 <h3>⚙️ Backend</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 <br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
 </td>
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+<td width="33%" align="center">
+<h3>🚀 Deployment</h3>
+<img src="https://skillicons.dev/icons?i=vercel,docker" />
+<br/><br/>
+</td>
+<td width="33%" align="center">
+<h3>🧰 Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 <br/><br/>
 </td>
 </tr>
@@ -143,21 +153,6 @@ Responsive travel package booking website with smooth navigation and full cross-
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sallu09876&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sallu09876/sallu09876/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 💼 Experience
 
