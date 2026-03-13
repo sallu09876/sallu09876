@@ -97,6 +97,7 @@ Responsive e-commerce app with product listing, cart, Redux state management, an
 
 **Tech:** React · Redux · JavaScript · CSS · JSON Server
 
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://tech-verse-frontend.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
@@ -104,21 +105,23 @@ Responsive e-commerce app with product listing, cart, Redux state management, an
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ CloudWay — Trip Booking Website
-Responsive travel package booking website with smooth navigation and full cross-device compatibility.
-
-**Tech:** HTML · CSS · JavaScript
-
-[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 WebDevPro — Agency Website
 React-based web service agency website with component architecture, React Router, and API integration.
 
 **Tech:** React · JavaScript · CSS · REST API
 
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://react-web-dev-pro.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ CloudWay — Trip Booking Website
+Responsive travel package booking website with smooth navigation and full cross-device compatibility.
+
+**Tech:** HTML · CSS · JavaScript
+
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://sallu09876.github.io/PROJECT-TRIP/)
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
