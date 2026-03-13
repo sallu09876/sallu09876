@@ -4,17 +4,15 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>Salman Rasheed M</strong>
 </h1>
-
-<h3>Full Stack Developer</h3>
+<h3>Full Stack Developer · MERN Stack</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
   <p>
-    I'm a full-stack developer who enjoys building scalable, efficient, and user-friendly web applications.
-    I work across both frontend and backend to create smooth user experiences and reliable server-side systems.
+    Full Stack Developer specializing in the MERN stack, with hands-on experience building and deploying production-ready applications.
+    Built a complete hospital EMR system featuring JWT authentication, role-based access, and dynamic scheduling — live on Vercel and Render.
+    Currently interning as a Software Engineer at Sinnonteq.
   </p>
-
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:sallu2004mkt@gmail.com"><img src="https://img.shields.io/badge/📧_sallu2004mkt@gmail.com-1e1e2e?style=for-the-badge" /></a>
@@ -22,70 +20,146 @@
     <img src="https://img.shields.io/badge/💼_Open_to_Freelance-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/sallu09876">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/salmanrasheedm">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/salman_rasheed_m">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://portfolio-peach-nine-94.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-  <img src="https://komarev.com/ghpvc/?username=sallu09876&style=flat-square&color=blue" alt="Profile Visit"/>
+  <h3>🌐 Socials</h3>
+  <p align="left">
+    <a href="https://github.com/sallu09876">
+      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/salmanrasheedm">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/salman_rasheed_m">
+      <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://portfolio-peach-nine-94.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=sallu09876&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <br clear="all" />
 
+---
 
 ## 🛠️ Skills
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js" />
+<h3>💻 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 <br/><br/>
-
 </td>
-
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br/><br/>
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
-
 </td>
-
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+<br/><br/>
 </td>
 </tr>
 </table>
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MedFlow — Hospital EMR System
+Full-stack hospital appointment & EMR management system with role-based dashboards for Admin, Doctor, and Receptionist.
+
+**Tech:** React · Node.js · Express · MongoDB · JWT · Docker · Tailwind CSS
+
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://medflow-emr.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 TechVerse — Tech Gadgets Store
+Responsive e-commerce app with product listing, cart, Redux state management, and JSON Server mock backend.
+
+**Tech:** React · Redux · JavaScript · CSS · JSON Server
+
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ CloudWay — Trip Booking Website
+Responsive travel package booking website with smooth navigation and full cross-device compatibility.
+
+**Tech:** HTML · CSS · JavaScript
+
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 WebDevPro — Agency Website
+React-based web service agency website with component architecture, React Router, and API integration.
+
+**Tech:** React · JavaScript · CSS · REST API
+
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sallu09876&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=sallu09876&theme=dark&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallu09876&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sallu09876&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sallu09876/sallu09876/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🔵 Software Engineer Intern | Sinnonteq | Feb 2026 – Present |
+| 🟢 MERN Stack Intern | Techolas Technologies | Jun 2025 – Feb 2026 |
+| 🎓 BCA | Yeldo Mar Baselios College | 2022 – 2025 |
