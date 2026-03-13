@@ -55,14 +55,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+ <img src="https://skillicons.dev/icons?i=html,css,js" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
 </td>
 </tr>
 
