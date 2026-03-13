@@ -71,7 +71,7 @@
 </td>
 <td width="33%" align="center">
 <h3>🚀 Deployment</h3>
-<img src="https://skillicons.dev/icons?i=vercel,docker" />
+<img src="https://skillicons.dev/icons?i=vercel,render,docker" />
 <br/><br/>
 </td>
 <td width="33%" align="center">
