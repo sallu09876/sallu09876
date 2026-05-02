@@ -96,7 +96,7 @@ Full-stack hospital appointment & EMR management system with role-based dashboar
 
 **Tech:** React · Node.js · Express · MongoDB · JWT · Docker · Tailwind CSS
 
-[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://medflow-emr.vercel.app)
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://mern-emr-app.vercel.app/login)
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
