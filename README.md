@@ -89,7 +89,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏥 MedFlow — Hospital EMR System
 Full-stack hospital appointment & EMR management system with role-based dashboards for Admin, Doctor, and Receptionist.
@@ -100,7 +100,7 @@ Full-stack hospital appointment & EMR management system with role-based dashboar
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🛒 TechVerse — Tech Gadgets Store
 Responsive e-commerce app with product listing, cart, Redux state management, and JSON Server mock backend.
@@ -111,9 +111,7 @@ Responsive e-commerce app with product listing, cart, Redux state management, an
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌐 WebDevPro — Agency Website
 React-based web service agency website with component architecture, React Router, and API integration.
@@ -124,7 +122,9 @@ React-based web service agency website with component architecture, React Router
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### ✈️ CloudWay — Trip Booking Website
 Responsive travel package booking website with smooth navigation and full cross-device compatibility.
@@ -132,6 +132,28 @@ Responsive travel package booking website with smooth navigation and full cross-
 **Tech:** HTML · CSS · JavaScript
 
 [![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://sallu09876.github.io/PROJECT-TRIP/)
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+<td width="33%" valign="top">
+
+### 📋 IssueFlow — Minimal Issue Management Platform
+Full-stack issue management platform with AI-powered analysis. Features issue creation, discussion threads, real-time updates, and Gemini AI-generated insights from issue content and discussion history.
+
+**Tech:** Next.js · NestJS · PostgreSQL · Drizzle ORM · TypeScript · Tailwind CSS · Gemini AI · REST API
+
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://issue-tracker-psi-rosy.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
+
+</td>
+<td width="33%" valign="top">
+
+### 💰 FinSight — Finance Tracker Dashboard
+Modern responsive React dashboard to track finances through analytics, graphs, and real-time insights.
+
+**Tech:** React · Charts · Analytics · Dashboard
+
+[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](https://finance-dashboard-ui-flame-theta.vercel.app/)
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876)
 
 </td>
