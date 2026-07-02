@@ -122,6 +122,8 @@ Responsive e-commerce app with product listing, cart, Redux state management, an
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876/TechVerse-Frontend)
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 ### 🌐 WebDevPro — Agency Website
@@ -133,8 +135,6 @@ React-based web service agency website with component architecture, React Router
 [![Repo](https://img.shields.io/badge/Repo-1A1A1A?style=flat-square&logo=github&logoColor=white)](https://github.com/sallu09876/REACT-WebDev-Pro)
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 ### 💰 FinSight — Finance Tracker Dashboard
